@@ -1,0 +1,31 @@
+body {
+    font-family: arial;
+}   
+
+h1 {
+    font-family: Arial black;
+    color: purple;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    color: orangered;
+
+}
+
+h6 {
+    color: gray;
+    text-decoration: underline;
+    text-align: right;
+}
+
+ul {
+    list-style:;
+    padding:;
+    margin:;
+}
